@@ -1,14 +1,13 @@
-# ELEC2645 - Embedded Systems Project Assignment 1 & 2
-- Professor: Dr Timothy Amsdon
-- Hardware: STMicroelectronics STM32 NUCLEO-64 MCU Development Board - L476RG
-- ELEC2645: Embedded Systems Project module - Projects using c++
-
-## Assignment 1 - Group Project 
-Creation of software with menu functionality. Three sub-systems were created by each individual member, with:
-- Mathew - Op-Amp Calculator
-- Chris - Logic Gate Calculator
--  Ibrahim - Bitwise and Booleans
-
-## Assignment 2 - Individual Project
-### KAss - Kitchen Assistant
-I designed and developed a kitchen assistant that would be able to set-timers, embed custom alarm songs, control the light systems and aircon, store recipes, and monitor & set oven temperature levels. 
+  LCD Screen Test
+  ===============
+  
+  Designed to test basic functionality of the Nokia N5110 LCD display. The screen is 
+  84 x 48 pixels with the upper lefthand corner having the designation of (0,0). 
+  The x,y co-ordinates of each image and sprite relateto the upper left hand corner of each image.
+  
+  Required library: N5110 : https://github.com/ELEC1620/N5110
+  
+  MBED Studio version: 1.4.1
+  MBED OS version: 6.12.0
+  Board: NUCLEO L476RG
+  Author: Andrew Knowles 2021
