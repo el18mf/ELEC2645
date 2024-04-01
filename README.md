@@ -1,4 +1,5 @@
 # ELEC2645 - Embedded Systems Project Assignment 1 & 2
+Professor: Dr Timothy Amsdon
 Embedded Systems Project - Projects using c++
 
 ## Assignment 1 - Group Project 
