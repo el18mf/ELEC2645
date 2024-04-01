@@ -1,5 +1,6 @@
 # ELEC2645 - Embedded Systems Project Assignment 1 & 2
 Professor: Dr Timothy Amsdon
+Hardware: STMicroelectronics STM32 NUCLEO-64 MCU Development Board - L476RG
 Embedded Systems Project - Projects using c++
 
 ## Assignment 1 - Group Project 
