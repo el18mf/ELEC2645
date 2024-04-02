@@ -5,7 +5,8 @@
   84 x 48 pixels with the upper lefthand corner having the designation of (0,0). 
   The x,y co-ordinates of each image and sprite relateto the upper left hand corner of each image.
   
-  Required library: N5110 : https://github.com/ELEC1620/N5110
+  Required library: N5110
+  Found in: https://github.com/ELEC1620/
   
   MBED Studio version: 1.4.1
   MBED OS version: 6.12.0
